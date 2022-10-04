@@ -1,0 +1,20 @@
+{
+  "data":[
+    {
+    "name": "Salmon",
+    "contry": "France",
+    "price": "400"
+  },
+  {
+    "name": "Chicken Fry",
+    "contry": "India",
+    "price": "180"
+  },
+  {
+    "name": "Pasta",
+    "contry": "Italy",
+    "price": "320"
+  }
+    ]
+}
+
